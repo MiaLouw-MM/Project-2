@@ -1,0 +1,22 @@
+/* *{
+border: 1px solid blue; 
+} */
+ 
+.section1{
+    background-color: burlywood;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 50px;
+    padding-right: 950px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section2{
+    background-color: antiquewhite;
+}
+.container{
+    display: flex
+    height: 100px;
+    width: 100%;
+    flex direction: row;
+}
